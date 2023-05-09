@@ -1,7 +1,7 @@
 # Kinematics Project
 
 In this university project we designed, manufactured and program a prototype 4 DOF robotic arm with the task to scoop materials. The arm composed of Dynamixel
-MX-28AR motors, laser cut parts and a 3D-printed end-effector. The scope of the project was about 4 weeks with details given in the [report](docs/report.pdf).
+MX-28AR motors, laser cut parts and a 3D-printed end-effector. The scope of the project was about 2 weeks with details given in the [report](docs/report.pdf).
 
 <p align="center">
   <img src="demos/gif_bot.gif" />
